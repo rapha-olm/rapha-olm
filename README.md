@@ -20,7 +20,8 @@
 ### ✨Studying...
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![ReadyLetsDoThisGIF](https://github.com/user-attachments/assets/f9d016cc-0748-4bea-89b0-876ac392228f)
+
+![hippo](https://i.pinimg.com/originals/59/de/1d/59de1d22b3630a43486c62bb08a36503.gif)
 
 
 
